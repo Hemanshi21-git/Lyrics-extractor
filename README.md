@@ -1,4 +1,5 @@
 # Lyrics-extractor
+#Lyrical:
 Lyrics Extractor using Tkinter and Genius API
 This project is a lyrics extractor built with Python's Tkinter for the GUI and the Genius API for fetching song lyrics. It allows users to search for lyrics of their favorite songs.
 
