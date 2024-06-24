@@ -13,4 +13,4 @@ Technologies Used:
 Python 
 Tkinter
 Genius API
-This project serves as a simple yet practical example of using APIs within a desktop application to retrieve and display data from external sources.
+This project serves as a simple yet practical example of using APIs within a desktop application to retrieve and display data .
